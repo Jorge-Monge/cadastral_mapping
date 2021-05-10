@@ -1,2 +1,4 @@
 # cadastral_mapping
-Uses GeoPandas to map cadastral data for province capitals in Spain
+(Jupyter Notebook) Python script which uses GeoPandas to map cadastral data (http://www.catastro.minhap.es/) for province capitals in Spain
+
+Please note the license requirements related with the data that this script uses.
