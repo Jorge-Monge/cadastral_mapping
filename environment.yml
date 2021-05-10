@@ -1,0 +1,11 @@
+name: C:\Temp\vEnv
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - geopandas
+  - notebook
+  - matplotlib
+  - contextily
+  - feedparser
+prefix: C:\Temp\vEnv
