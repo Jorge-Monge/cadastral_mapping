@@ -2,7 +2,7 @@ name: C:\Temp\vEnv
 channels:
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.7
   - geopandas
   - notebook
   - matplotlib
